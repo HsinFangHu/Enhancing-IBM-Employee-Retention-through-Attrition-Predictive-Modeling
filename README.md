@@ -31,19 +31,19 @@ Overall, it offers valuable insights for HR decision-making to implement retenti
 ## Dataset and Correlation heatmap
 The "IBM.csv" dataset contains information on employee attrition within an organization. It includes various attributes related to employees' demographics, job characteristics, and work satisfaction levels.<br>
 <br>
-Categorical Variables:<br>
+• Categorical Variables:<br>
 Attrition: Employee attrition status<br>
 Department: Department of work<br>
 EducationField<br>
 MaritalStatus<br>
 <br>
-Ordinal Variables:<br>
+• Ordinal Variables:<br>
 Education<br>
 EnvironmentSatisfaction<br>
 JobSatisfaction<br>
 WorkLifeBalance<br>
 <br>
-Numerical Variables:<br>
+• Numerical Variables:<br>
 Age: Age of employee<br>
 DistanceFromHome<br>
 MonthlyIncome<br>
