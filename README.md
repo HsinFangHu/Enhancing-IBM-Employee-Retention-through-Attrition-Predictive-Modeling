@@ -16,6 +16,7 @@ Overall, it offers valuable insights for HR decision-making to implement retenti
 
 ## Objectives
 1.	Predictive Modeling for Attrition:<br>
+
 • Develop and evaluate predictive models, such as Logistic Regression and Random Forest, to forecast employee attrition based on historical data.<br>
 • Assess the performance of these models using accuracy, sensitivity, specificity, precision, and balanced accuracy metrics.<br>
 2.	Feature Importance Analysis:<br>
